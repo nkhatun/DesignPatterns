@@ -1,4 +1,4 @@
-# DesignPatterns
+# Adapter Design Patterns
 ### Introduction ::
 The adapter design pattern is one of structural design patterns and its used so that two unrelated interfaces to work together.
 The object that joins these unrelated interfaces, is known as Adapter.
