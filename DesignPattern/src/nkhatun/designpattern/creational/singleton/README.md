@@ -1,8 +1,8 @@
 # Singleton Design Patterns
-###Introduction ::
+### Introduction ::
 The singleton design pattern is one of creational design patterns and its used to restrict the instantiation of a class to one object.
 The single object is shared across the whole classes or throughout the application.
-###Implementation Approach ::
+### Implementation Approach ::
 To implement Singleton pattern, these below steps are to be followed
 1. Static member: that contains the singleton object
 2. Private constructor: that will prevent to create a new object from outside class
